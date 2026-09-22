@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/opt/anaconda3/envs/docai/bin/python",
+    "git.ignoreLimitWarning": true
+}
